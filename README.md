@@ -1,5 +1,14 @@
 # PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering
 
+## Setup
+```
+# Install dependencies
+pip install -r requirements.txt
+
+# Data
+ln -s /ABS/PATH/TO/DATASETS/ROOT/DIR datasets 
+```
+
 *[Jang Hyun Cho](https://sites.google.com/view/janghyuncho/)*<sup>1</sup>,
 *[Utkarsh Mall](https://www.cs.cornell.edu/~utkarshm/)*<sup>2</sup>,
 *[Kavita Bala](http://www.cs.cornell.edu/~kb/)*<sup>2</sup>,
